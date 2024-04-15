@@ -1,0 +1,8 @@
+{
+  "jupyter.lab.shortcuts": [],
+  "title": "semi-formal-sidecar",
+  "description": "semi-formal-sidecar settings.",
+  "type": "object",
+  "properties": {},
+  "additionalProperties": false
+}

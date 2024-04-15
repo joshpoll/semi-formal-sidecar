@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.2.6
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: jopo@mit.edu
+author_name: Josh Pollock
+data_format: string
+file_extension: ''
+has_binder: true
+has_settings: true
+kind: frontend
+labextension_name: semi-formal-sidecar
+mimetype: ''
+mimetype_name: ''
+project_short_description: A JupyterLab extension.
+python_name: semi_formal_sidecar
+repository: https://github.com/joshpoll/semi-formal-sidecar
+test: true
+viewer_name: ''
+
